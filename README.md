@@ -1,4 +1,4 @@
-# daystruct-ai
+# Daystruct
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,150 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-daystruct-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://daystruct.ai/
+Daystruct is a marketplace for reusable source, data and memory capabilities. It enables discovery of public profiles, inspection of release evidence and compatibility, and acquisition of capabilities through APIs or MCP. The platform connects developers and agents with structured code, tools, and AI assistants, fostering a capability network where code and data can be built once and used repeatedly across applications.
+
+**Areas:** Company · AI · Marketplace · Reusable · Capabilities
+
+## Daystruct on APIs.io
+
+Everything profiled for Daystruct is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/daystruct-ai/](https://apis.io/providers/daystruct-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (22)
+
+- [Daystruct Account API](https://apis.io/apis/daystruct-ai/daystruct-ai-account-api/) — The Account API from Daystruct — 1 operation(s) for account.
+- [Daystruct Capabilities API](https://apis.io/apis/daystruct-ai/daystruct-ai-capabilities-api/) — The Capabilities API from Daystruct — 17 operation(s) for capabilities.
+- [Daystruct Changes API](https://apis.io/apis/daystruct-ai/daystruct-ai-changes-api/) — The Changes API from Daystruct — 1 operation(s) for changes.
+- [Daystruct Compatibility API](https://apis.io/apis/daystruct-ai/daystruct-ai-compatibility-api/) — Compatibility contracts: check whether capabilities work together, read verified bundle locks, and verify a set locally. Public and read-only apart from…
+- [Daystruct Composer API](https://apis.io/apis/daystruct-ai/daystruct-ai-composer-api/) — The Composer API from Daystruct — 1 operation(s) for composer.
+- [Daystruct Conflicts API](https://apis.io/apis/daystruct-ai/daystruct-ai-conflicts-api/) — The Conflicts API from Daystruct — 1 operation(s) for conflicts.
+- [Daystruct Data and Memory cards API](https://apis.io/apis/daystruct-ai/daystruct-ai-data-and-memory-cards-api/) — Persistent, revisioned cards an account's agents share. Private cards are visible to every key on the owning account and to no other account. Writes need…
+- [Daystruct Data API](https://apis.io/apis/daystruct-ai/daystruct-ai-data-api/) — The Data API from Daystruct — 9 operation(s) for data.
+- [Daystruct Databanks API](https://apis.io/apis/daystruct-ai/daystruct-ai-databanks-api/) — The Databanks API from Daystruct — 4 operation(s) for databanks.
+- [Daystruct Discovery API](https://apis.io/apis/daystruct-ai/daystruct-ai-discovery-api/) — The Discovery API from Daystruct — 9 operation(s) for discovery.
+- [Daystruct Entities API](https://apis.io/apis/daystruct-ai/daystruct-ai-entities-api/) — The Entities API from Daystruct — 5 operation(s) for entities.
+- [Daystruct Operations API](https://apis.io/apis/daystruct-ai/daystruct-ai-operations-api/) — Read-only operational state for external project and ops assistants. Authenticated with an ordinary read-scoped API key; it grants no Monitor controls,…
+- [Daystruct Operator capability refinery API](https://apis.io/apis/daystruct-ai/daystruct-ai-operator-capability-refinery-api/) — The Operator capability refinery API from Daystruct — 7 operation(s) for operator capability refinery.
+- [Daystruct Pricing API](https://apis.io/apis/daystruct-ai/daystruct-ai-pricing-api/) — The Pricing API from Daystruct — 1 operation(s) for pricing.
+- [Daystruct Provenance API](https://apis.io/apis/daystruct-ai/daystruct-ai-provenance-api/) — The Provenance API from Daystruct — 9 operation(s) for provenance.
+- [Daystruct Registered Agents API](https://apis.io/apis/daystruct-ai/daystruct-ai-registered-agents-api/) — API-key-linked developer agent identity and declared capabilities. No routing or task dispatch is provided.
+- [Daystruct Relationships API](https://apis.io/apis/daystruct-ai/daystruct-ai-relationships-api/) — The Relationships API from Daystruct — 1 operation(s) for relationships.
+- [Daystruct Requests API](https://apis.io/apis/daystruct-ai/daystruct-ai-requests-api/) — The Requests API from Daystruct — 3 operation(s) for requests.
+- [Daystruct Software API](https://apis.io/apis/daystruct-ai/daystruct-ai-software-api/) — The Software API from Daystruct — 1 operation(s) for software.
+- [Daystruct Sources API](https://apis.io/apis/daystruct-ai/daystruct-ai-sources-api/) — The Sources API from Daystruct — 1 operation(s) for sources.
+- [Daystruct Task sessions API](https://apis.io/apis/daystruct-ai/daystruct-ai-task-sessions-api/) — The Task sessions API from Daystruct — 6 operation(s) for task sessions.
+- [Daystruct .well Known API](https://apis.io/apis/daystruct-ai/daystruct-ai-well-known-api/) — The .well Known API from Daystruct — 1 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Daystruct Ai Agentic Access](https://apis.io/agentic-access/daystruct-ai/daystruct-ai-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AccountRequestSubmission](https://apis.io/schemas/daystruct-ai/daystruct-ai-account-request-submission/)
+- [DeveloperAgentEnvelope](https://apis.io/schemas/daystruct-ai/daystruct-ai-developer-agent-envelope/)
+- [DeveloperAgentListEnvelope](https://apis.io/schemas/daystruct-ai/daystruct-ai-developer-agent-list-envelope/)
+- [DeveloperAgentRegistration](https://apis.io/schemas/daystruct-ai/daystruct-ai-developer-agent-registration/)
+- [DeveloperAgentRegistrationEnvelope](https://apis.io/schemas/daystruct-ai/daystruct-ai-developer-agent-registration-envelope/)
+- [DeveloperAgentUpdate](https://apis.io/schemas/daystruct-ai/daystruct-ai-developer-agent-update/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Daystruct Ai Context](https://apis.io/jsonld/daystruct-ai/daystruct-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Daystruct API Rules](https://apis.io/rules/daystruct-ai/daystruct-ai-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Daystruct Ai Authentication](https://apis.io/security/daystruct-ai/daystruct-ai-authentication/)
+- [Daystruct Ai Domain Security](https://apis.io/security/daystruct-ai/daystruct-ai-domain-security/)
+- [Daystruct Ai Vulnerability Disclosure](https://apis.io/security/daystruct-ai/daystruct-ai-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Daystruct Ai Plans Pricing](https://apis.io/plans/daystruct-ai/daystruct-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.daystruct.ai/)
+- [Documentation](https://www.daystruct.ai/docs)
+- [Getting started](https://www.daystruct.ai/capabilities/%40daystruct%2Fscaffold-email-onboarding)
+- [API reference](https://www.daystruct.ai/developers)
+- [Pricing](https://www.daystruct.ai/pricing)
+- [Sign up](https://www.daystruct.ai/login)
+- [Support](https://www.daystruct.ai/contact)
+- [Security](https://www.daystruct.ai/security)
+
+## API Evangelist rating
+
+**Kin Score 54.1** — developing · rubric 0.25.0 · scored 2026-11-05
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 56.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 52.1 |
+
+**Agent readiness 40.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 20.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/daystruct-ai/](https://apis.io/providers/daystruct-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Daystruct: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/daystruct-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
